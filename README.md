@@ -1,3 +1,2 @@
-# WellnessHubs.github.io
-
-## immersive-wellness.com
+# materialize-gallery-theme
+"Gallery" Materialize Theme by Alan Chang
