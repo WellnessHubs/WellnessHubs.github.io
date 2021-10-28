@@ -8555,7 +8555,7 @@ nav .nav-background {
   bottom: 0;
   left: 0;
   z-index: -1;
-  opacity: .1;
+  opacity: -.01;
 }
 
 nav .nav-background img,
@@ -8573,7 +8573,7 @@ nav .nav-background .pattern {
 
 nav .nav-background img.active,
 nav .nav-background .pattern.active {
-  opacity: 0;
+  opacity: 1;
 }
 
 nav .nav-background .pattern {
