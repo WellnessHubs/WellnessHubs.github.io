@@ -8555,7 +8555,7 @@ nav .nav-background {
   bottom: 0;
   left: 0;
   z-index: -1;
-  opacity: .1;
+  opacity: 1;
 }
 
 nav .nav-background img,

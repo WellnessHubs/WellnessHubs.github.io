@@ -8573,7 +8573,7 @@ nav .nav-background .pattern {
 
 nav .nav-background img.active,
 nav .nav-background .pattern.active {
-  opacity: 1;
+  opacity: 100;
 }
 
 nav .nav-background .pattern {
